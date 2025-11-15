@@ -1,0 +1,12 @@
+"id","account_id","name","role"
+1,1,Alice,admin
+2,1,Bob,analyst
+3,2,Cathy,manager
+4,3,Dan,engineer
+5,4,Eva,designer
+6,5,Sam,analyst
+7,5,Rita,admin
+8,6,John,manager
+9,6,Kathy,staff
+10,7,Linda,analyst
+11,7,Raj,engineer

@@ -1,0 +1,8 @@
+"account_id","renewal_date","renewal_status"
+1,"2024-12-01",at_risk
+2,"2025-01-15",renewed
+3,"2025-03-10",pending
+4,"2024-11-20",renewed
+5,"2025-02-01",at_risk
+6,"2025-04-05",pending
+7,"2024-12-30",cancelled
